@@ -1,0 +1,14 @@
+"Games"
+{
+	"tf"
+	{
+		"Offsets"
+		{
+			"CBasePlayer::CanHearAndReadChatFrom"
+			{
+				"windows"	"432"
+				"linux"	 	"433"
+			}
+		}
+	}
+}
