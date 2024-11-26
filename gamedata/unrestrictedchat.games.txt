@@ -1,5 +1,25 @@
 "Games"
 {
+	"#default"
+	{
+		"Functions"
+		{
+			"CBasePlayer::CanHearAndReadChatFrom"
+			{
+				"offset"	"CBasePlayer::CanHearAndReadChatFrom"
+				"hooktype"	"entity"
+				"return"	"bool"
+				"this"		"entity"
+				"arguments"
+				{
+					"pPlayer"
+					{
+						"type"	"cbaseentity"
+					}
+				}
+			}
+		}
+	}
 	"tf"
 	{
 		"Offsets"
