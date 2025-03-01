@@ -31,4 +31,48 @@
 			}
 		}
 	}
+	"cstrike"
+	{
+		"Offsets"
+		{
+			"CBasePlayer::CanHearAndReadChatFrom"
+			{
+				"windows"	"421"
+				"linux"	 	"422"
+			}
+		}
+	}
+	"dod"
+	{
+		"Offsets"
+		{
+			"CBasePlayer::CanHearAndReadChatFrom"
+			{
+				"windows"	"420"
+				"linux"	 	"421"
+			}
+		}
+	}
+	"hl2mp"
+	{
+		"Offsets"
+		{
+			"CBasePlayer::CanHearAndReadChatFrom"
+			{
+				"windows"	"420"
+				"linux"	 	"421"
+			}
+		}
+	}
+	"left4dead2"
+	{
+		"Offsets"
+		{
+			"CBasePlayer::CanHearAndReadChatFrom"
+			{
+				"windows"	"456"
+				"linux"	 	"457"
+			}
+		}
+	}
 }
