@@ -37,8 +37,8 @@
 		{
 			"CBasePlayer::CanHearAndReadChatFrom"
 			{
-				"windows"	"421"
-				"linux"	 	"422"
+				"windows"	"428"
+				"linux"	 	"429"
 			}
 		}
 	}
@@ -48,8 +48,8 @@
 		{
 			"CBasePlayer::CanHearAndReadChatFrom"
 			{
-				"windows"	"420"
-				"linux"	 	"421"
+				"windows"	"427"
+				"linux"	 	"428"
 			}
 		}
 	}
@@ -59,8 +59,8 @@
 		{
 			"CBasePlayer::CanHearAndReadChatFrom"
 			{
-				"windows"	"420"
-				"linux"	 	"421"
+				"windows"	"427"
+				"linux"	 	"428"
 			}
 		}
 	}
