@@ -26,8 +26,8 @@
 		{
 			"CBasePlayer::CanHearAndReadChatFrom"
 			{
-				"windows"	"432"
-				"linux"	 	"433"
+				"windows"	"433"
+				"linux"	 	"434"
 			}
 		}
 	}
